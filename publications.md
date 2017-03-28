@@ -16,6 +16,13 @@ Alex Gittens, Aditya Devarakonda, Evan Racah, Michael Ringenburg, Lisa Gerhardt,
 
 Razvan Carbunescu, Aditya Devarakonda, James Demmel, Steven Gordon, Jay Alameda, Susan Mehringer <u>Architecting an autograder for parallel code</u> ACM Extreme Science and Engineering Discovery Environment, July 2014.
 
+[[Paper]](http://ieeexplore.ieee.org/abstract/document/6530588/)
+
+Manish Parashar, Moustafa AbdelBaky, Ivan Rodero, Aditya Devarakonda <u>Cloud paradigms and practices for computational and data-enabled science and engineering</u> IEEE Computing in Science & Engineering, 2013.
+
+[[Paper]](https://doi.org/10.1016/j.jcss.2011.12.017)
+David Villegas, Norman Bobroff, Ivan Rodero, Javier Delgado, Yanbin Liu, Aditya Devarakonda, Liana Fong, S Masoud Sadjadi, Manish Parashar <u>Cloud federation in a layered service model</u> Journal of Computer and System Sciences, 	September 2012.
+
 <!--
 Presentations
 -->
