@@ -46,12 +46,14 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
+        	<li>
+						{% include pgpkey.html %}
+					</li>
+				</ul>
       </div>
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
-				<!--<p><b>I am on leave at Nvidia Research for the Fall 2017 semester.</b></p>-->
 				<p>{{ site.location |  escape }}</p>
 				<img src="{{ site.baseurl }}/img/email.png" alt="Berkeley Email">
       </div>
