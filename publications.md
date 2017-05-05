@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 [[Report]](https://www.arxiv.org/abs/1612.04003){:target="_blank"}
-Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding communication in primal and dual block coordinate descent methods</u> arXiv:1612.04003 [cs.DC], December 2016.
+Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding communication in primal and dual block coordinate descent methods</u> arXiv:1612.04003 [cs.DC], December 2016. (submitted for publication).
 
 [[Paper]](http://ieeexplore.ieee.org/document/7840606/){:target="_blank"}
 [[Report]](https://www.arxiv.org/abs/1607.01335){:target="_blank"}
