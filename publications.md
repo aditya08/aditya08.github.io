@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Research
 permalink: /publications/
 ---
+# Publications #
+
 [[Report]](https://www.arxiv.org/abs/1612.04003){:target="_blank"}
 Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding communication in primal and dual block coordinate descent methods</u> arXiv:1612.04003 [cs.DC], December 2016. (submitted for publication).
 
@@ -19,6 +21,7 @@ Manish Parashar, Moustafa AbdelBaky, Ivan Rodero, Aditya Devarakonda <u>Cloud pa
 [[Paper]](https://doi.org/10.1016/j.jcss.2011.12.017){:target="_blank"}
 David Villegas, Norman Bobroff, Ivan Rodero, Javier Delgado, Yanbin Liu, Aditya Devarakonda, Liana Fong, S Masoud Sadjadi, Manish Parashar <u>Cloud federation in a layered service model</u> Journal of Computer and System Sciences, 	September 2012.
 
-<!--
-Presentations
--->
+# Presentations #
+
+[[Slides]](../talks/retreat-s17.pdf){:target="blank"}
+<u>Communication-Avoiding Machine Learning</u>, ASPIRE Summer Retreat, Santa Cruz, CA. June 14<sup>th</sup>, 2017.
