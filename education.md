@@ -7,7 +7,7 @@ __University of California, Berkeley__
 ===
 Ph.D. Computer Science (Current)
 
-*Designated Emphasis in Computational Data Science and Engineering*
+*Designated Emphasis in Computational and Data Science and Engineering*
 
 
 __University of California, Berkeley__
