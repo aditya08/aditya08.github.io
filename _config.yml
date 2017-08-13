@@ -19,6 +19,7 @@ email:
 location: 584F Soda Hall
   Berkeley, CA 94720
 description: > # this means to ignore newlines until "baseurl:"
+  <b>I am on-leave at Nvidia Research until Spring 2018.</b>
   I am a Ph.D. Candidate advised by Jim Demmel and Michael W. Mahoney.
   I work on the design of communication-avoiding algorithms for numerical linear algebra and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
