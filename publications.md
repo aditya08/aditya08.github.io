@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 # Publications #
 
+[[Report]](https://arxiv.org/abs/1712.06047){:target="_blank"}
+Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization</u> arXiv:1712.06047 [cs.DC], December 2017. (accepted IPDPS'18).
+
 [[Report]](https://www.arxiv.org/abs/1612.04003){:target="_blank"}
 Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding communication in primal and dual block coordinate descent methods</u> arXiv:1612.04003 [cs.DC], December 2016. (submitted for publication).
 
