@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 # Publications #
 
+[[Report]](https://arxiv.org/abs/1712.02029v2){:target="_blank"}
+Aditya Devarakonda, Maxim Naumov, Michael Garland <u>AdaBatch: Adaptive Batch Sizes for Training Deep Neural Networks</u> arXiv:1712.02029v2 [cs.LG], February 2018. (submitted for publication).
+
 [[Report]](https://arxiv.org/abs/1712.06047){:target="_blank"}
 Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization</u> arXiv:1712.06047 [cs.DC], December 2017. (accepted IPDPS'18).
 
