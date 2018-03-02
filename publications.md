@@ -11,6 +11,9 @@ Aditya Devarakonda, Maxim Naumov, Michael Garland <u>AdaBatch: Adaptive Batch Si
 [[Report]](https://arxiv.org/abs/1712.06047){:target="_blank"}
 Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization</u> arXiv:1712.06047 [cs.DC], December 2017. (accepted IPDPS'18).
 
+[[Report]](https://arxiv.org/abs/1710.08883){:target="_blank"}
+Saeed Soori, Aditya Devarakonda, James Demmel, Mert Gurbuzbalaban, Maryam Mehri Dehnavi <u>Avoiding Communication in Proximal Methods for Convex Optimization Problems</u> arXiv:1710.08883 [cs.DC], October 2017.
+
 [[Report]](https://www.arxiv.org/abs/1612.04003){:target="_blank"}
 Aditya Devarakonda, Kimon Fountoulakis, James Demmel, Michael W. Mahoney <u>Avoiding communication in primal and dual block coordinate descent methods</u> arXiv:1612.04003 [cs.DC], December 2016. (submitted for publication).
 
