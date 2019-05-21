@@ -1,0 +1,8 @@
+@inproceedings{DKDM_IPDPS_18,
+  title={Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization},
+  author={Devarakonda, Aditya and Fountoulakis, Kimon and Demmel, James and Mahoney, Michael W},
+  booktitle={2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS)},
+  pages={409--418},
+  year={2018},
+  organization={IEEE}
+}

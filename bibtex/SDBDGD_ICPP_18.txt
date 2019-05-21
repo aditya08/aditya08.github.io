@@ -1,0 +1,18 @@
+@inproceedings{SDBDGD_ICPP_18,
+ author = {Soori, Saeed and Devarakonda, Aditya and Blanco, Zachary and Demmel, James and Gurbuzbalaban, Mert and Dehnavi, Maryam Mehri},
+ title = {Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems},
+ booktitle = {Proceedings of the 47th International Conference on Parallel Processing},
+ series = {ICPP 2018},
+ year = {2018},
+ isbn = {978-1-4503-6510-9},
+ location = {Eugene, OR, USA},
+ pages = {22:1--22:10},
+ articleno = {22},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3225058.3225131},
+ doi = {10.1145/3225058.3225131},
+ acmid = {3225131},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+

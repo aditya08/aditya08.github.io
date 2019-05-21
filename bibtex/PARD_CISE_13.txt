@@ -1,0 +1,10 @@
+@article{PARD_CISE_13,
+  title={Cloud paradigms and practices for computational and data-enabled science and engineering},
+  author={Parashar, Manish and AbdelBaky, Moustafa and Rodero, Ivan and Devarakonda, Aditya},
+  journal={Computing in Science \& Engineering},
+  volume={15},
+  number={4},
+  pages={10--18},
+  year={2013},
+  publisher={IEEE}
+}

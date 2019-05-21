@@ -1,0 +1,8 @@
+@inproceedings{GD_BD_16,
+  title={Matrix factorizations at scale: A comparison of scientific data analytics in Spark and C+ MPI using three case studies},
+  author={Gittens, Alex and Devarakonda, Aditya and Racah, Evan and Ringenburg, Michael and Gerhardt, Lisa and Kottalam, Jey and Liu, Jialin and Maschhoff, Kristyn and Canon, Shane and Chhugani, Jatin and others},
+  booktitle={2016 IEEE International Conference on Big Data (Big Data)},
+  pages={204--213},
+  year={2016},
+  organization={IEEE}
+}

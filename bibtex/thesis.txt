@@ -1,0 +1,9 @@
+@phdthesis{Devarakonda:EECS-2018-92,
+    Author = {Devarakonda, Aditya},
+    Title = {Avoiding Communication in First Order Methods for Optimization},
+    School = {EECS Department, University of California, Berkeley},
+    Year = {2018},
+    Month = {Jul},
+    URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-92.html},
+    Number = {UCB/EECS-2018-92}
+    }

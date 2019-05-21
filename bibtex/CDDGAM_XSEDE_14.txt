@@ -1,0 +1,8 @@
+@inproceedings{CDDGAM_XSEDE_14,
+  title={Architecting an autograder for parallel code},
+  author={Carbunescu, Razvan and Devarakonda, Aditya and Demmel, James and Gordon, Steven and Alameda, Jay and Mehringer, Susan},
+  booktitle={Proceedings of the 2014 Annual Conference on Extreme Science and Engineering Discovery Environment},
+  pages={68},
+  year={2014},
+  organization={ACM}
+}

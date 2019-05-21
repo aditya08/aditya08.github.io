@@ -1,0 +1,10 @@
+@article{VB_JCSS_12,
+  title={Cloud federation in a layered service model},
+  author={Villegas, David and Bobroff, Norman and Rodero, Ivan and Delgado, Javier and Liu, Yanbin and Devarakonda, Aditya and Fong, Liana and Sadjadi, S Masoud and Parashar, Manish},
+  journal={Journal of Computer and System Sciences},
+  volume={78},
+  number={5},
+  pages={1330--1344},
+  year={2012},
+  publisher={Elsevier}
+}

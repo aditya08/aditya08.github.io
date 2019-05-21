@@ -1,0 +1,6 @@
+@article{DNG_TR_17,
+  title={AdaBatch: adaptive batch sizes for training deep neural networks},
+  author={Devarakonda, Aditya and Naumov, Maxim and Garland, Michael},
+  journal={arXiv preprint arXiv:1712.02029},
+  year={2017}
+}

@@ -1,0 +1,6 @@
+@article{SDDGD_TR_17,
+  title={Avoiding communication in proximal methods for convex optimization problems},
+  author={Soori, Saeed and Devarakonda, Aditya and Demmel, James and Gurbuzbalaban, Mert and Dehnavi, Maryam Mehri},
+  journal={arXiv preprint arXiv:1710.08883},
+  year={2017}
+}
