@@ -1,1 +1,3 @@
-# aditya08.github.io
+---
+permalink: /index.html
+---
