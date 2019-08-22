@@ -1,0 +1,21 @@
+@ARTICLE{GD_BD_16,
+       author = {{Gittens}, Alex and {Devarakonda}, Aditya and {Racah}, Evan and
+         {Ringenburg}, Michael and {Gerhardt}, Lisa and {Kottalam}, Jey and
+         {Liu}, Jialin and {Maschhoff}, Kristyn and {Canon}, Shane and
+         {Chhugani}, Jatin and {Sharma}, Pramod and {Yang}, Jiyan and
+         {Demmel}, James and {Harrell}, Jim and {Krishnamurthy}, Venkat and
+         {Mahoney}, Michael W. and {Prabhat}},
+        title = "{Matrix Factorization at Scale: a Comparison of Scientific Data Analytics in Spark and C+MPI Using Three Case Studies}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Distributed, Parallel, and Cluster Computing, G.1.3, C.2.4},
+         year = "2016",
+        month = "Jul",
+          eid = {arXiv:1607.01335},
+        pages = {arXiv:1607.01335},
+archivePrefix = {arXiv},
+       eprint = {1607.01335},
+ primaryClass = {cs.DC},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016arXiv160701335G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
