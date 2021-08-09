@@ -1,0 +1,3 @@
+[submodule "new_hugo_site/anatole"]
+	path = new_hugo_site/anatole
+	url = https://github.com/lxndrblz/anatole.git
