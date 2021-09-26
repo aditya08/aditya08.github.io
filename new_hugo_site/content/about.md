@@ -4,9 +4,9 @@ date: 2021-04-10
 draft: false
 ---
 ### Bio
-Aditya Devarakonda is an Assistant Research Scientist in the Department of Physics and Astronomy at Johns Hopkins University. Prior to that he was a Senior Member of Professional Staff at Johns Hopkins Applied Physics Lab. He received his Ph.D. in Computer Science from the University of California, Berkeley in 2018 and his B.S in Computer Engineering from Rutgers University, New Brunswick in 2012.
+Aditya Devarakonda is an Assistant Professor in the Department of Computer Science at Wake Forest University. Prior to that he was an Assistant Research Scientist in the Department of Physics and Astronomy at Johns Hopkins University. He received his Ph.D. in Computer Science from the University of California, Berkeley in 2018 and his B.S in Computer Engineering from Rutgers University, New Brunswick in 2012.
 
-His research interests are in high performance computing, machine learning, and computational science with a focus on the design, analysis, and implementation of efficient parallel algorithms. His prior work includes the development of communication-avoiding algorithms and techniques for machine learning. He was the recipient of the NSF Graduate Research Fellowship and the EECS Department Fellowship while at UC Berkeley.
+His research interests are in high performance computing, machine learning, and scientific computing with a focus on the design, analysis, and implementation of efficient parallel algorithms. His prior work includes the development of communication-avoiding algorithms and techniques for machine learning. He was a recipient of the NSF Graduate Research Fellowship and the EECS Department Fellowship while at UC Berkeley.
 
 ### Professional Appointments
 - *Assistant Professor, Department of Computer Science, Wake Forest University (Winston-Salem, NC).*
@@ -35,9 +35,5 @@ Finally, we also present an adaptive batch size technique which reduces the late
 
 ### Education
 - Ph.D. in Computer Science from University of California, Berkeley.
-    - Designated emphasis in Computational and Data Science and Engineering.
-
 - M.S. in Computer Science from University of California, Berkeley.
-
 - B.S. in Computer Engineering from Rutgers University, New Brunswick.
-    - Double major in Computer Science.

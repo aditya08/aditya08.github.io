@@ -25,7 +25,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "Aditya Devarakonda"
 author = "Aditya Devarakonda"
 copyright = "2021"
-description = "Assistant Research Scientist at Johns Hopkins University\n\nadi 'at' jhu.edu\n527 Bloomberg Center"
+description = "Assistant Professor at Wake Forest University\n\naditya 'at' wfu.edu\n Manchester Hall"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -110,16 +110,17 @@ unsafe= true
   url = "/about/"
 
   [[menu.main]]
-  name = "Research"
+  name = "Teaching"
   weight = 300
+  identifier = "Teaching"
+  url = "/teaching/"
+
+  [[menu.main]]
+  name = "Research"
+  weight = 400
   identifier = "research"
   url = "/research/"
 
-  [[menu.main]]
-  name = "Teaching"
-  weight = 400
-  identifier = "Teaching"
-  url = "/teaching/"
 
     [[menu.main]]
   name = "Publications"

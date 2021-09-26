@@ -5,9 +5,8 @@ draft: false
 ---
 ### Wake Forest University
 #### Spring 2022
-- To-do.
-- To-do.
-
+- CSC 201: Data Structure and Algorithms
+<!--
 ### Johns Hopkins University
 #### Spring 2021
 - Guest Lecturer (Virtual), Data Mining (EN.553.602), Applied Mathematics and Statistics.
@@ -38,3 +37,4 @@ draft: false
 ### Rutgers University, New Brunswick
 #### Spring 2010
 - Recitation Instructor, Introduction to Computer Science (CS 101), CS.
+-->
