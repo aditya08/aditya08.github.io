@@ -5,7 +5,7 @@ draft: false
 ---
 ### Wake Forest University
 #### Spring 2022
-- CSC 201: Data Structure and Algorithms
+- CSC 201: Data Structures and Algorithms
 <!--
 ### Johns Hopkins University
 #### Spring 2021
