@@ -6,6 +6,8 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = false
+relativeURLs = true
+canonifyURLs = true
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
@@ -122,7 +124,7 @@ unsafe= true
   url = "/research/"
 
 
-    [[menu.main]]
+  [[menu.main]]
   name = "Publications"
   weight = 500
   identifier = "publications"
