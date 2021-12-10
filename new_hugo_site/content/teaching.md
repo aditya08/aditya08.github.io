@@ -5,9 +5,8 @@ draft: false
 ---
 ### Wake Forest University
 #### Spring 2022
-TBA
+[CSC 201 Section A and B: Data Structures and Algorithms](/classes/spring-2022/csc201/)
 <!--
-[CSC 201: Data Structures and Algorithms](/classes/spring-2022/csc201.md)
 ### Johns Hopkins University
 #### Spring 2021
 - Guest Lecturer (Virtual), Data Mining (EN.553.602), Applied Mathematics and Statistics.

@@ -58,24 +58,25 @@ D. Villegas, N. Bobroff, I. Rodero, J. Delgado, Y. Liu, A. Devarakonda, L. Fong,
 </code></pre>
 
 ### Peer-Reviewed Conference Papers
-A. Devarakonda and J. Demmel, **Avoiding Communication in Logistic Regression**, Proceedings of the 27th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2020, <em>To appear</em>.  
+A. Devarakonda and J. Demmel, **Avoiding Communication in Logistic Regression**, Proceedings of the 27th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2020.  
+(<a href="https://doi.ieeecomputersociety.org/10.1109/HiPC50609.2020.00023" target="_blank">Link</a>)
 (<a href="javascript:toggleBlock('DDarxiv20-abstract')">Abstract</a>) (<a href="javascript:toggleBlock('DDarxiv20-bibtex')">Bibtex</a>) (<a href="#DD20-tr">Technical Report</a>)
 <span class="hide-content" id="DDarxiv20-abstract">Stochastic gradient descent (SGD) is one of the most widely used optimization methods for solving various machine learning problems. SGD solves an optimization problem by iteratively sampling a few data points from the input data, computing gradients for the selected data points, and updating the solution. However, in a parallel setting, SGD requires interprocess communication at every iteration. We introduce a new communication-avoiding technique for solving the logistic regression problem using SGD. This technique re-organizes the SGD computations into a form that communicates every s iterations instead of every iteration, where s is a tuning parameter. We prove theoretical flops, bandwidth, and latency upper bounds for SGD and its new communication-avoiding variant. Furthermore, we show experimental results that illustrate that the new Communication-Avoiding SGD (CA-SGD) method can achieve speedups of up to 4.97× on a high-performance Infiniband cluster without altering the convergence behavior or accuracy.</span>
 <pre class="hide-content" id="DDarxiv20-bibtex"><code>
-    @article{DDarxiv20,
-    author = {{Devarakonda}, Aditya and {Demmel}, James},
-    title = "{Avoiding Communication in Logistic Regression}",
-    journal = {arXiv e-prints},
-    keywords = {Computer Science - Machine Learning, Computer Science - Distributed, Parallel, and Cluster Computing},
-        year = 2020,
-    month = nov,
-        eid = {arXiv:2011.08281},
-    pages = {arXiv:2011.08281},
-    archivePrefix = {arXiv},
-    eprint = {2011.08281},
-    primaryClass = {cs.LG},
-    adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv201108281D},
-    adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    @INPROCEEDINGS {DD20hipc,
+    author = {A. Devarakonda and J. Demmel},
+    booktitle = {2020 IEEE 27th International Conference on High Performance Computing, Data, and Analytics (HiPC)},
+    title = {Avoiding Communication in Logistic Regression},
+    year = {2020},
+    volume = {},
+    issn = {},
+    pages = {91-100},
+    keywords = {upper bound;high performance computing;conferences;optimization methods;machine learning;bandwidth;tuning},
+    doi = {10.1109/HiPC50609.2020.00023},
+    url = {https://doi.ieeecomputersociety.org/10.1109/HiPC50609.2020.00023},
+    publisher = {IEEE Computer Society},
+    address = {Los Alamitos, CA, USA},
+    month = {dec}
     }
 </code></pre>
 
