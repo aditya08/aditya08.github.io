@@ -19,7 +19,6 @@ This project focuses on developing novel techniques and algorithms to reduce the
 <!--figcaption>Neural Network Forward Pass.</figcaption-->
 </figure>
 
-Deep learning is the enabling technology behind many applications that we use daily, from FaceID (Image Recognition) and Alexa (Voice Recognition) to Autopilot (Self-Driving Cars). All of these techologies (and many more) utilize deep learning models under the hood to solve complex optimization problems with high accuracy, in some cases, superhuman accuracy.
+Deep learning is the enabling technology behind many applications that we use daily, from FaceID (Image Recognition) and Alexa (Voice Recognition) to Autopilot (Self-Driving Cars). All of these technologies (and many more) utilize deep learning models under the hood to solve complex optimization problems with high accuracy, in some cases, superhuman accuracy.
 
-Large deep learning models are trained on multi-node, multi-GPU machines and require several hours to days of training. This project focuses on developing new training techniques, optimization problems, and computational kernels to improve performance. Topics in this area include: i) implementing new (quasi) second-order optimization methods, ii) redesigning optimization methods to reduce communication, and iii) implementing new matrix and tensor factorizations to compress and speedup training.
-### Deep Learning for Computational Science
+Large deep learning models are trained on multi-node, multi-GPU machines and require several days of training. This project focuses on developing new training techniques, optimization problems, and computational kernels to improve performance. Topics in this area include: i) implementing new (quasi) second-order optimization methods, ii) redesigning optimization methods to reduce communication, and iii) implementing new matrix and tensor factorizations to compress and speedup training.
