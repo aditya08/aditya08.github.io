@@ -5,7 +5,6 @@ draft: false
 ---
 ## Announcements
 
-### 2021
 **December 2021**: Serving on the SC22 Program Committee: Machine Learning and HPC Track.
 
 **September 2021**: Serving on the Cluster 2022 Program Committee: Applications, Algorithms, and Libraries Track.
