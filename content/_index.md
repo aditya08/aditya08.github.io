@@ -5,6 +5,8 @@ draft: false
 ---
 ## Announcements
 
+**December 2021**: Serving on the CCGrid22 Program Committee: Artificial Intelligence, Machine Learning, and Deep Learning Track.
+
 **December 2021**: Serving on the SC22 Program Committee: Machine Learning and HPC Track.
 
 **September 2021**: Serving on the Cluster 2022 Program Committee: Applications, Algorithms, and Libraries Track.
