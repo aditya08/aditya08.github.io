@@ -16,7 +16,6 @@ His research interests are in high performance computing, machine learning, and 
 ### Ph.D. Thesis
 *Avoiding Communication in First Order Methods for Optimization.*  
 Thesis Committee: <a href="https://people.eecs.berkeley.edu/~demmel/" target="_blank">Jim Demmel</a>, <a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank">Michael W. Mahoney</a>, and <a href="https://www.stat.berkeley.edu/~aditya" target="_blank">Aditya Guntuboyina</a>.
-
 (<a href="https://escholarship.org/uc/item/3rm6d2mf" target="_blank">Link</a>)
 (<a href="javascript:toggleBlock('D18-abstract')">Abstract</a>) (<a href="javascript:toggleBlock('D18-bibtex')">Bibtex</a>)
 <p class="hide-content" id="D18-abstract">Machine learning has gained renewed interest in recent years due to advances in computer hardware (processing power and high-capacity storage) and the availability of large amounts of data which can be used to develop accurate, robust models. While hardware improvements have facilitated the development of machine learning models in a single machine, the analysis of large amounts of data still requires parallel computing to obtain shorter running times or where the dataset cannot be stored on a single machine.<br>
