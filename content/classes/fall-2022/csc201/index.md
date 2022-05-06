@@ -5,4 +5,4 @@ draft: false
 ---
 [Syllabus: TBA]()
 
-[Section A Lectures: Mondays, Wednesdays and Fridays - 9:00am to 9:50pm](Canvas Link TBA)
+[Section B Lectures: Mondays, Wednesdays and Fridays - 9:00am to 9:50pm](Canvas Link TBA)

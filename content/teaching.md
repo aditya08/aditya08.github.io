@@ -4,9 +4,8 @@ date: 2021-04-13
 draft: false
 ---
 ### Wake Forest University
-<!--#### Fall 2022
-[CSC 111 Section A: Introduction to Computer Science](/classes/fall-2022/csc111/)
--->
+#### Fall 2022
+[CSC 201 Section B: Data Structures and Algorithms](/classes/fall-2022/csc201/)
 #### Spring 2022
 [CSC 201 Section A and B: Data Structures and Algorithms](/classes/spring-2022/csc201/)
 
