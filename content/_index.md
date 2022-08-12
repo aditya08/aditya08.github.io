@@ -5,7 +5,7 @@ draft: false
 ---
 ---
 
-<span style="color:#9C7C37;">I am currently looking for motivated Wake undergraduate and graduate students who are interested in research focusing on designing and implementing parallel algorithms for machine learning. If you would like to work with me, please email me (1) a copy of your CV/resume, (2) one-two lines about why you're interested in doing research, and (3) what you're hoping to work on and get out of the research project, to start the conversation.</span>
+<span style="color:#9C7C37;">I am always looking for motivated Wake Forest undergraduate and graduate students who want to pursue research in high performance computing, machine learning, numerical linear algebra, and numerical optimization. If you would like to work with me, please email me (1) a copy of your CV/resume, (2) one-two lines about your research interests, and (3) what you're hoping to get out of the research project.</span>
 
 ---
 ## Announcements
