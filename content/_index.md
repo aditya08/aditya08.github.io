@@ -9,6 +9,7 @@ I am always looking for motivated Wake Forest graduate and undergraduate student
 
 If you are interested in getting involved, then please take a look at recent <a href=publications style="color:#9C7C37;">Publications</a> to get a sense of the problems we work on and email me to set up a meeting. Our work requires a strong background in linear algebra and experience coding in C/C++.
 
+<a rel="me" href="https://mathstodon.xyz/@dvrknda_hpc"></a>
 ---
 ## Announcements
 

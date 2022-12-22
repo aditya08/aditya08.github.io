@@ -27,7 +27,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "Aditya Devarakonda"
 author = "Aditya Devarakonda"
 copyright = "2022"
-description = "Assistant Professor at Wake Forest University\n\ndevaraa __at__ wfu.edu\n 251 Manchester Hall"
+description = "Assistant Professor at Wake Forest University\ndevaraa __at__ wfu.edu\n 251 Manchester Hall\n"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -66,6 +66,11 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 #icon = "fab fa-linkedin"
 #title = "Linkedin"
 #url = "https://de.linkedin.com/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/advrknda"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
