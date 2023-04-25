@@ -4,10 +4,16 @@ date: 2021-04-13
 draft: false
 ---
 ### Wake Forest University
+#### Spring 2023
+CSC 790 Special Topics: Parallel Numerical Optimization
+
+CSC 373 Independent Study
+
+CSC 201 Section B: Data Structures and Algorithms
 #### Fall 2022
-[CSC 201 Section B: Data Structures and Algorithms](/classes/fall-2022/csc201/)
+CSC 201 Section B: Data Structures and Algorithms
 #### Spring 2022
-[CSC 201 Section A and B: Data Structures and Algorithms](/classes/spring-2022/csc201/)
+CSC 201 Sections A and B: Data Structures and Algorithms
 
 <!--
 ### Johns Hopkins University
