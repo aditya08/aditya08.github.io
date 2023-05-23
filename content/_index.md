@@ -3,10 +3,9 @@ title: "Announcements"
 date: 2021-04-10
 draft: false
 ---
-<!-- ---
-#### Postdoctoral Research Fellowship available!
-Dr. Grey Ballard and I are seeking a postdoctoral research fellow (Ph.D. in Computer Science, Mathematics, Statistics, or a closely related field required) to work on sparse matrix and tensor computations research.<br>
-<a href="https://wfu.wd1.myworkdayjobs.com/en-US/Staff_Career_Website_live/job/Winston-Salem-NC/Post-Doctoral-Researcher--Department-of-Computer-Science_R0005341?q=postdoc" target=_blank style="color:#9C7C37;"> Please see this job listing for details and apply!</a> -->
+---
+#### Postdoctoral Research Fellowship opening!
+Dr. Grey Ballard and I are seeking a postdoctoral research fellow (Ph.D. in Computer Science, Mathematics, Statistics, or a closely related field required) to work on the design, analysis and high-performance implementation of sparse matrix and tensor computations as part of the <a href="https://sparsitute.lbl.gov/" target=_blank style="color:#9C7C37;">Sparsitute</a>. We are particularly interested in scholars who have a strong background in numerical linear algebra, numerical analysis, and/or parallel and high-performance computing. <a href="https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Post-Doctoral-Researcher--Department-of-Computer-Science_R0005341" target=_blank style="color:#9C7C37;"> Please apply here!</a>
 
 ---
 I am always looking for motivated Wake Forest graduate and undergraduate students who want to pursue research in high performance computing, machine learning, numerical linear algebra, and numerical optimization.
