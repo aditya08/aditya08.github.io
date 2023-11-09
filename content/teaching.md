@@ -4,7 +4,13 @@ date: 2021-04-13
 draft: false
 ---
 ### Wake Forest University
+#### Spring 2024
+CSC 721: Theory of Algorithms
+
+CSC 301: Algorithms Design and Analysis
 #### Fall 2023
+CSC 373: Independent Study
+
 CSC 301: Algorithms Design and Analysis
 
 CSC 201: Data Structures and Algorithms
