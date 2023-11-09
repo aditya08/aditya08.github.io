@@ -164,6 +164,7 @@ R. Carbunescu, A. Devarakonda, J. Demmel, S. Gordon, J. Alameda, and S. Mehringe
 
 ### Technical Reports
 *Technical reports without (Abstract) and (Bibtex) links are superseded by conference and/or journal papers.*
+
 A. Devarakonda and G. Ballard, **Sequential and Shared-Memory Parallel Algorithms for Partitioned Local Depths**, arXiv:2307.16652 (cs.DC), 2023.
 (<a href="https://arxiv.org/abs/2307.16652" target="_blank">Link</a>)
 (<a href="javascript:toggleBlock('DG23-abstract')">Abstract</a>) (<a href="javascript:toggleBlock('DG23-bibtex')">Bibtex</a>)
