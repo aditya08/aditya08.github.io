@@ -34,7 +34,7 @@ favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
-customJs = [] 
+customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = true
@@ -52,7 +52,7 @@ singleDateFormat = "Mon, Jan 2, 2006"
 # postSectionName = "blog"
 
 [params.simpleAnalytics]
-# enable = true
+# enable = false
 # customurl = "https://analytics.example.com"
 
 ## Math settings
