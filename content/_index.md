@@ -11,9 +11,8 @@ Dr. Grey Ballard and I are seeking a postdoctoral research fellow (Ph.D. in Comp
 I am always looking for motivated Wake Forest graduate and undergraduate students who want to pursue research in high performance computing, machine learning, numerical linear algebra, and numerical optimization.
 
 If you are interested in getting involved, then please take a look at recent <a href=publications style="color:#9C7C37;">Publications</a> to get a sense of the problems we work on and email me to set up a meeting. Our work requires a strong background in linear algebra and experience coding in C/C++.
-
----
-<a rel="me" href="https://mathstodon.xyz/@dvrknda_hpc"></a>
+<!-- --- -->
+<!-- <a rel="me" href="https://mathstodon.xyz/@dvrknda_hpc"></a>
 
 ## Announcements
 
@@ -49,4 +48,4 @@ I will be joining <a href=https://cs.wfu.edu target=_blank style="color:#9C7C37;
 
 ### April 2021
 
-Serving on the SC21 Program Committee: Machine Learning and HPC Track.
+Serving on the SC21 Program Committee: Machine Learning and HPC Track. -->
