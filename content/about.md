@@ -9,6 +9,7 @@ Aditya Devarakonda is an Assistant Professor in the Department of Computer Scien
 His research interests are in high performance computing, machine learning, and scientific computing with a focus on the design, analysis, and implementation of efficient parallel algorithms. His prior work includes the development of communication-avoiding algorithms and techniques for machine learning. He was a recipient of the NSF Graduate Research Fellowship and the EECS Department Fellowship while at UC Berkeley.
 
 ### Professional Appointments
+- *Visiting Scientist, Oak Ridge National Lab (Oak Ridge, TN).*
 - *Assistant Professor, Department of Computer Science, Wake Forest University (Winston-Salem, NC).*
 - Assistant Research Scientist, Department of Physics and Astronomy, Johns Hopkins University (Baltimore, MD).
 - Senior Professional Staff, Large-Scale Analytics Group, Johns Hopkins University Applied Physics Lab (Laurel, MD).
