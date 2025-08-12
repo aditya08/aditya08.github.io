@@ -6,49 +6,49 @@
     <description>Recent content in Announcements on Aditya Devarakonda</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 14:34:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 09:06:26 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSC 201: Data Structures and Algorithms</title>
       <link>http://localhost:1313/classes/fall-2022/csc201/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/classes/fall-2022/csc201/</guid>
-      <description>Syllabus: TBA&#xA;[Section B Lectures: Mondays, Wednesdays and Fridays - 9:00am to 9:50pm](Canvas Link TBA)</description>
+      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;Syllabus: TBA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;[Section B Lectures: Mondays, Wednesdays and Fridays - 9:00am to 9:50pm](Canvas Link TBA)&lt;/p&gt;</description>
     </item>
     <item>
       <title>CSC 201: Data Structures and Algorithms</title>
       <link>http://localhost:1313/classes/spring-2022/csc201/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/classes/spring-2022/csc201/</guid>
-      <description>Syllabus&#xA;Section A: Wednesdays and Fridays - 12:30pm to 1:45pm</description>
+      <description>&lt;p&gt;&lt;a href=&#34;./data/csc201_syllabus.pdf&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wakeforest.instructure.com/courses/40301&#34;&gt;Section A: Wednesdays and Fridays - 12:30pm to 1:45pm&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>Communication-Avoiding Machine Learning Machine learning has gained renewed interest in recent years due to advances in computer hardware (processing power and high-bandwidth storage) and the availability of large amounts of data which can be used to develop accurate, robust models.</description>
+      <description>&lt;h3 id=&#34;communication-avoiding-machine-learning&#34;&gt;Communication-Avoiding Machine Learning&lt;/h3&gt;&#xA;&lt;figure&gt;&#xA;&lt;img src=./images/caml_fig.gif width=&#34;400&#34;&gt;&#xA;&lt;!--figcaption&gt;Gram Matrix Partitioning for CA-ML.&lt;/figcaption--&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Machine learning has gained renewed interest in recent years due to advances in computer hardware (processing power and high-bandwidth storage) and the availability of large amounts of data which can be used to develop accurate, robust models. While hardware improvements have facilitated the development of machine learning models on a single machine, the analysis of large amounts of data still requires parallel computers to obtain shorter running times.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/teaching/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/</guid>
-      <description>Wake Forest University Spring 2024 CSC 721: Theory of Algorithms</description>
+      <description>&lt;h3 id=&#34;wake-forest-university&#34;&gt;Wake Forest University&lt;/h3&gt;&#xA;&lt;h4 id=&#34;fall-2024-spring-2025-fall-2025&#34;&gt;Fall 2024, Spring 2025, Fall 2025&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;On leave&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/publications/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/</guid>
-      <description>Peer-Reviewed Journal Papers A. Devarakonda, K. Fountoulakis, J. Demmel and M.</description>
+      <description>&lt;p&gt;Please see my &lt;a href=&#34;https://scholar.google.com/citations?user=Ao-FJHwAAAAJ&amp;hl=en&#34;&gt;Google Scholar page&lt;/a&gt; for an up to date list of preprints and publications.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Bio Aditya Devarakonda is an Assistant Professor in the Department of Computer Science at Wake Forest University.</description>
+      <description>&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;&#xA;&lt;p&gt;Aditya Devarakonda is an Assistant Professor in the Department of Computer Science at Wake Forest University. Prior to that he was an Assistant Research Scientist in the Department of Physics and Astronomy at Johns Hopkins University. He received his Ph.D. in Computer Science from the University of California, Berkeley in 2018 and his B.S in Computer Engineering from Rutgers University, New Brunswick in 2012.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
