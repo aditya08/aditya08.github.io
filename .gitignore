@@ -1,8 +1,5 @@
-content-bak/
-.old_site/
 public/
 resources/
-archetypes/
+.hugo_build.lock
+content-bak/
 hugo-website/
-layouts/
-assets/

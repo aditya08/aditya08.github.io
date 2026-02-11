@@ -1,0 +1,102 @@
+/* Enhanced Dark Mode Styles */
+
+/* Smooth transitions for theme switching */
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Enhanced dark mode colors for better night viewing */
+.dark {
+    --theme: rgb(18, 18, 18);
+    --entry: rgb(32, 32, 36);
+    --primary: rgb(230, 230, 230);
+    --secondary: rgb(160, 160, 160);
+    --tertiary: rgb(55, 55, 58);
+    --content: rgb(210, 210, 210);
+    --code-block-bg: rgb(28, 28, 32);
+    --code-bg: rgb(40, 40, 45);
+    --border: rgb(45, 45, 48);
+}
+
+/* Improve readability in dark mode */
+.dark body {
+    background: var(--theme);
+    color: var(--primary);
+}
+
+.dark .post-content,
+.dark .post-title,
+.dark p,
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: var(--primary);
+}
+
+.dark a {
+    color: rgb(119, 167, 255);
+}
+
+.dark a:hover {
+    color: rgb(149, 197, 255);
+}
+
+/* Make the theme toggle button more prominent */
+#theme-toggle {
+    padding: 4px 8px;
+    border-radius: 6px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+#theme-toggle:hover {
+    background: var(--tertiary);
+}
+
+#theme-toggle svg {
+    transition: transform 0.3s ease;
+}
+
+#theme-toggle:hover svg {
+    transform: scale(1.1);
+}
+
+/* Dark mode adjustments for code blocks */
+.dark .highlight,
+.dark pre {
+    background: var(--code-block-bg) !important;
+}
+
+.dark code {
+    background: var(--code-bg);
+    color: var(--primary);
+}
+
+/* Improve contrast for borders in dark mode */
+.dark .post-entry,
+.dark .post-single {
+    border: 1px solid var(--border);
+}
+
+/* Dark mode nav bar */
+.dark .nav {
+    background: var(--entry);
+    border-bottom: 1px solid var(--border);
+}
+
+/* Better visibility for active menu items in dark mode */
+.dark #menu .active {
+    border-bottom: 2px solid rgb(119, 167, 255);
+}
+
+/* Header visibility on home page */
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.dark .header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
