@@ -3,3 +3,4 @@ resources/
 .hugo_build.lock
 content-bak/
 hugo-website/
+.DS_Store
