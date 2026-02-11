@@ -14,7 +14,7 @@ description: "Current and former students"
 If you are passionate about high performance computing, parallel algorithms, optimization, or related topics, then please contact me.*
 
 *We typically program in MATLAB, Python, and/or C/C++ depending on the research problem.
-Parallel software typically uses OpenMP, MPI, CUDA, or other high-level parallel abstractions.*
+We often use OpenMP, MPI, CUDA, or other high-level abstractions to write parallel code.*
 
 
 PI: Aditya Devarakonda (devaraa@wfu.edu)
