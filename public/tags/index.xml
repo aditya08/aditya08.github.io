@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Aditya Devarakonda</title>
+    <title>Tags on a.dev</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Aditya Devarakonda</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Tags on a.dev</description>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clustering</title>
+      <link>http://localhost:1313/tags/clustering/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/clustering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communication Avoidance</title>
+      <link>http://localhost:1313/tags/communication-avoidance/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/communication-avoidance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPU Programming</title>
+      <link>http://localhost:1313/tags/gpu-programming/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gpu-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Means</title>
+      <link>http://localhost:1313/tags/k-means/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/k-means/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kernel Methods</title>
+      <link>http://localhost:1313/tags/kernel-methods/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kernel-methods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Approximation Methods</title>
+      <link>http://localhost:1313/tags/approximation-methods/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/approximation-methods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coordinate Descent</title>
+      <link>http://localhost:1313/tags/coordinate-descent/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coordinate-descent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generalized Linear Models</title>
+      <link>http://localhost:1313/tags/generalized-linear-models/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/generalized-linear-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S-Step</title>
+      <link>http://localhost:1313/tags/s-step/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/s-step/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sparse Models</title>
+      <link>http://localhost:1313/tags/sparse-models/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sparse-models/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
