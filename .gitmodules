@@ -1,9 +1,9 @@
 [submodule "new_hugo_site/anatole"]
 	path = new_hugo_site/anatole
 	url = https://github.com/lxndrblz/anatole.git
-[submodule "themes/papermod"]
-	path = themes/papermod
-	url = https://github.com/pmichaillat/hugo-website.git
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
