@@ -1,0 +1,8 @@
+content-bak/
+.old_site/
+public/
+resources/
+archetypes/
+hugo-website/
+layouts/
+assets/

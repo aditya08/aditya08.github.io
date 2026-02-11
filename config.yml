@@ -1,0 +1,102 @@
+baseURL: "https://aditya08.github.io/"
+title: a.dev
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: Courses
+          url: courses/
+          weight: 2
+        - name: REASOn Lab
+          url: reason-lab/
+          weight: 3
+        - name: Bio
+          url: bio/
+          weight: 4
+params:
+    description: "Academic website."
+    author: Aditya Devarakonda
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: auto
+    hideFooter: false
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["bio","publications","courses", "research-group"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: "Aditya Devarakonda"
+          subtitle: "<center>Assistant Professor</br>Department of Computer Science</br>Wake Forest University</br></br>251 Manchester Hall</br><code>devaraa@wfu.edu</code></center></br>My research interests lie in sparse linear algebra, high performance computing, parallel algorithms, and numerical methods. I am particularly interested in developing efficient algorithms and software for solving sparse nonlinear problems, which are fundamental to many scientific and engineering applications. I also work on optimizing the performance of these algorithms on parallel architectures, including GPUs, clouds, and supercomputers.</br></br>I am actively looking for collaborators and motivated students."
+          imageUrl: "profile-wake.jpg"
+          imageWidth: 320
+          imageHeight: 240
+          buttons:
+            - name: Publications
+              url: publications/
+            - name: Courses
+              url: courses/
+            - name: REASOn Lab
+              url: reason-lab/
+            - name: Bio
+              url: bio/
+            - name: Tags
+              url: tags/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:devaraa@wfu.edu
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=Ao-FJHwAAAAJ
+        - name: GitHub
+          url: https://github.com/aditya08
+
+    assets:
+        disableScrollBarStyle: true
+        favicon: "favicon.png"
+        favicon16x16: "favicon.png"
+        favicon32x32: "favicon.png"
+        apple_touch_icon: "favicon.png"
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "a.dev  "
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
