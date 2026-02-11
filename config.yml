@@ -1,6 +1,6 @@
 baseURL: "https://aditya08.github.io/"
 title: a.dev
-theme: PaperMod
+theme: papermod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
