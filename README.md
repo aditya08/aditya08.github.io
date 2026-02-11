@@ -1,4 +1,4 @@
-![Build Status](https://github.com/aditya08/cv/actions/workflows/hugo.yml/badge.svg)
+![Build Status](https://github.com/aditya08/aditya08.github.io/actions/workflows/hugo.yml/badge.svg)
 
 # Academic Website: aditya08.github.io
 
