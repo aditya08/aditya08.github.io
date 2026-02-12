@@ -35,17 +35,16 @@ We present a novel enhanced cyclic coordinate descent (ECCD) framework for solvi
 ---
 
 ##### Citation
-Yixiao Wang, Zishan Shao, Ting Jiang and Aditya Devarakonda. 2025. "Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models", *arXiv:2510.19999*, https://arxiv.org/abs/2510.19999 *(Accepted, NeurIPS'25).*
+Yixiao Wang, Zishan Shao, Ting Jiang and Aditya Devarakonda, "Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), 2025.*
 
 ```latex
-@misc{wang2025enhancedcycliccoordinatedescent,
-      title={Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models},
-      author={Yixiao Wang and Zishan Shao and Ting Jiang and Aditya Devarakonda},
-      year={2025},
-      eprint={2510.19999},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2510.19999},
+@inproceedings{
+wang2025enhanced,
+title={Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models},
+author={Yixiao Wang and Zishan Shao and Ting Jiang and Aditya Devarakonda},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=duunKHvWKz}
 }
 ```
 
