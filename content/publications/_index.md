@@ -3,9 +3,11 @@ title: "Publications"
 description: "Preprints and articles"
 ---
 
+- [A. Devarakonda, I. Simó Muñoz, and G. Guidi, Mixed-Precision Communication-Avoiding SGD for Generalized Linear Models on GPUs, arXiv:2606.18463](mixedprec/)
+- [M. T. Hussain, G. Ballard, A. Devarakonda, S. Eswar, N. Pesricha and V. Rao, High-Performance Star-M SVD for Big Data Compression, arXiv:2605.16058](starm/)
 - [J. Bellavita, M. Rubino, N. Iyer, A. Chang, A. Devarakonda, F. Vella and G. Guidi, Communication-Avoiding Linear Algebraic Kernel K-Means on GPUs, arXiv:2601.17136, (Accepted, IPDPS'26)](vivaldi/)
 - [Y. Wang, Z. Shao, T. Jiang, and A. Devarakonda, Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models, arXiv:2510.19999, (Accepted, NeurIPS'25)](eccd/)
-- [S. Akkas, A. Devarakonda, and A. Azad, DistShap: Scalable GNN Explanations with Distributed Shapley Values, arXiv:2506.22668](distshap/)
+- [S. Akkas, A. Devarakonda, and A. Azad, DistShap: Scalable GNN Explanations with Distributed Shapley Values, arXiv:2506.22668, (Accepted, VLDB'26)](distshap/)
 - [J. Pinheiro, A. Devarakonda, and G. Ballard, Parallel Rank-Adaptive Higher Order Orthogonal Iteration, Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25), pp. 1800-1815. 2025.](hooi/)
 - [A. Devarakonda and R. Kannan, Communication-Efficient, 2D Parallel Stochastic Gradient Descent for Distributed-Memory Optimization, arXiv:2501.07526](hybridsgd/)
 - [Z. Shao and A. Devarakonda, Scalable dual coordinate descent for kernel methods, Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPC-Asia'25), pp. 52-63, 2025. **Outstanding paper award.**](kerneldcd/)
