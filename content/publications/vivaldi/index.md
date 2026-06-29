@@ -11,7 +11,7 @@ cover:
     alt: "Parallel workflow"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://arxiv.org/abs/2601.17136"
     Text: "40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26)"
 ---
 

@@ -11,7 +11,7 @@ cover:
     alt: "Parallel rank-adaptive HOOI for Tucker decomposition"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://doi.org/10.1145/3712285.3759865"
     Text: "Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)"
 
 ---

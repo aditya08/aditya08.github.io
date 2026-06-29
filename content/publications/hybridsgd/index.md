@@ -11,7 +11,7 @@ cover:
     alt: "2D parallel SGD communication trade-off"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://arxiv.org/abs/2501.07526"
     Text: "Preprint, arXiv:2501.07526"
 
 ---

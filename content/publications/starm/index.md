@@ -11,7 +11,7 @@ cover:
     alt: "Taylor-Green vortex reconstruction via star-M SVD compression"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://arxiv.org/abs/2605.16058"
     Text: "Preprint, arXiv:2605.16058"
 
 ---

@@ -11,7 +11,7 @@ cover:
     alt: "Communication-avoiding s-step dual coordinate descent"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://doi.org/10.1145/3712031.3712034"
     Text: "Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPC-Asia'25)"
 
 ---

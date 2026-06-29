@@ -11,7 +11,7 @@ cover:
     alt: "Mixed-precision CA-SGD outer iteration with per-kernel precision slots"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://arxiv.org/abs/2606.18463"
     Text: "Preprint, arXiv:2606.18463"
 
 ---

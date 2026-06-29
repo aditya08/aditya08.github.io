@@ -11,7 +11,7 @@ cover:
     alt: "GLMnet accuracy"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://openreview.net/forum?id=duunKHvWKz"
     Text: "Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)"
 
 ---

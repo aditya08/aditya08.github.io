@@ -11,7 +11,7 @@ cover:
     alt: "DistShap distributed Shapley value explanation pipeline"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://arxiv.org/abs/2506.22668"
     Text: "52nd International Conference on Very Large Data Bases (VLDB'26)"
 
 ---
