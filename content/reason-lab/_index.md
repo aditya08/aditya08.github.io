@@ -19,6 +19,8 @@ We often use OpenMP, MPI, CUDA, or other high-level abstractions to write parall
 
 PI: Aditya Devarakonda (devaraa@wfu.edu)
 
+REASOn Lab is the Laboratory for <u>R</u>esource <u>E</u>fficient <u>A</u>lgorithms for <u>S</u>calable <u>O</u>ptimizatio<u>n</u>.
+
 [REASOn-able Software on GitHub](https://github.com/reas0n-lab)
 
 ### Current
