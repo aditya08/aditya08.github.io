@@ -1,0 +1,8 @@
+/* Keep the REASOn expansion on one line so a wrap never splits the acronym.
+   The expansion needs ~450px at the 18px body size, so below a 560px viewport
+   it must be allowed to break or it would overflow the column. */
+@media (min-width: 560px) {
+    .acronym-def {
+        white-space: nowrap;
+    }
+}

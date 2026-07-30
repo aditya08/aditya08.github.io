@@ -4,11 +4,13 @@ description: "Current and former students"
 ---
 
 <a href="https://github.com/reas0n-lab" target="_blank" rel="noopener noreferrer">
-  <img src="/reason-lab-crop.png" alt="REASOn Lab logo" style="width: 25%; max-width: 50vw; height: auto; display: block; margin: 0 auto;">
+  <img src="/reason-lab-transparent.png" alt="REASOn Lab logo" style="width: 45%; max-width: 60vw; height: auto; display: block; margin: 0 auto;">
 </a>
 </br>
 </br>
 
+
+REASOn Lab is the Laboratory for <span class="acronym-def"><u>R</u>esource <u>E</u>fficient <u>A</u>lgorithms for <u>S</u>calable <u>O</u>ptimizatio<u>n</u>.</span>
 
 *I am actively looking for motivated students to join the REASOn Lab.
 If you are passionate about high performance computing, parallel algorithms, optimization, or related topics, then please contact me.*
@@ -18,8 +20,6 @@ We often use OpenMP, MPI, CUDA, or other high-level abstractions to write parall
 
 
 PI: Aditya Devarakonda (devaraa@wfu.edu)
-
-REASOn Lab is the Laboratory for <u>R</u>esource <u>E</u>fficient <u>A</u>lgorithms for <u>S</u>calable <u>O</u>ptimizatio<u>n</u>.
 
 [REASOn-able Software on GitHub](https://github.com/reas0n-lab)
 
