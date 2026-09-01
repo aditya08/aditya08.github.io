@@ -19,11 +19,17 @@ If you are passionate about high performance computing, parallel algorithms, opt
 We often use OpenMP, MPI, CUDA, or other high-level abstractions to write parallel code.*
 
 
+*Relevant courses include [CSC 391/691: Algorithms for Large-Scale Machine Learning](/courses/csc391-691/), a dual-listed undergraduate and graduate course offered Fall 2026, where students derive cost models, implement distributed and GPU methods on the DEAC cluster, and audit performance claims. It is the usual entry point for students who go on to do research with the lab.*
+
+*CSC 790: Parallel Numerical Optimization is a graduate-level course where students derive machine-learning models from first principles, implement stochastic optimization methods, and perform theoretical convergence and algorithm-cost analyses. It is the usual entry point for theoretically inclined students.*
+
 PI: Aditya Devarakonda (devaraa@wfu.edu)
 
 [REASOn-able Software on GitHub](https://github.com/reas0n-lab)
 
 ### Current
+- AJ Garcia
+- Golam Mahmud
 - Alan de Mersseman (co-advised with [Prof. Giulia Guidi](https://giuliaguidi.github.io/))
 
 ### Former

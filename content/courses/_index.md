@@ -3,6 +3,9 @@ title: "Courses"
 description: "Courses taught by Aditya Devarakonda"
 ---
 
+### Fall 2026
+[CSC 391/691: Algorithms for Large-Scale Machine Learning](/courses/csc391-691/)
+
 ### Spring 2026
 [CSC721: Theory of Algorithms](https://wakeforest.instructure.com/courses/78710)
 

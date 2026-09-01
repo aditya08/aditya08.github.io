@@ -4,3 +4,4 @@ resources/
 content-bak/
 hugo-website/
 .DS_Store
+.claude/
