@@ -6,6 +6,8 @@ description: "Courses taught by Aditya Devarakonda"
 ### Fall 2026
 [CSC 391/691: Algorithms for Large-Scale Machine Learning](/courses/csc391-691/)
 
+CSC 301: Algorithm Design and Analysis
+
 ### Spring 2026
 [CSC721: Theory of Algorithms](https://wakeforest.instructure.com/courses/78710)
 
@@ -13,14 +15,14 @@ description: "Courses taught by Aditya Devarakonda"
 On leave
 
 ### Spring 2024
-CSC301: Design and Analysis of Algorithms
+CSC 301: Algorithm Design and Analysis
 
 CSC721: Theory of Algorithms
 
 ### Fall 2023
 CSC 373: Independent Study
 
-CSC 301: Algorithms Design and Analysis
+CSC 301: Algorithm Design and Analysis
 
 CSC 201: Data Structures and Algorithms
 
